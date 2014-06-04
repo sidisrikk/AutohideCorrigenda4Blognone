@@ -11,3 +11,4 @@ Manaual build extension  for "Google Chrome"
 5. Enable “Developer Mode”.
 6. Click “Pack extension” 
 7. Select the “extension” folder as the “Extension root directory”
+8. To install. Drag and drop "extension.crx" into "chrome://extensions/" page
