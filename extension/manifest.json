@@ -17,15 +17,20 @@
         "page": "background.html"
     },
     "permissions": ["https://www.blognone.com/*"],
-
-    "web_accessible_resources": ["onclickIcon_contentscript.js"],
-
+    
     "content_scripts": [
         {
             "matches": [           
             "https://www.blognone.com/node/*"
             ],
-            "js": ["jquery-1.9.0.js","corrigendaFilter.js"],
+            "js": ["jquery-1.9.0.js","corrigendaFilter.js","sat.js"],
+            "run_at": "document_end" // pay attention to this line
+        }
+        ,{
+            "matches": [           
+            "https://www.blognone.com/*"
+            ],
+            "js": ["jquery-1.9.0.js","sat.js"],
             "run_at": "document_end" // pay attention to this line
         }
     ]
