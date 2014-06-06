@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Getting Started Extension's Popup</title>
+    <style>
+        body {
+            min-width: 200px;
+            overflow-x: hidden;
+        }
+        img {
+            margin: 5px;
+            border: 2px solid black;
+            vertical-align: middle;
+            width: 75px;
+            height: 75px;
+        }
+    </style>
+
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: http://developer.chrome.com/extensions/contentSecurityPolicy.html
+     
+-->
+    <script type="text/javascript" src="jquery-1.9.0.js"></script>
+    <script src="onChangedRadio.js"></script>
+
+</head>
+
+<body>
+    Auto hidden
+    <form action="">
+        <input type="radio" name="autohidden" value="on">on
+        <br>
+        <input type="radio" name="autohidden" value="off">off
+    </form>
+</body>
+
+
+</html>
+
+
