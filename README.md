@@ -10,7 +10,7 @@ Download Extension here :  http://goo.gl/ve2flS
 Installation 
 
 
-![alt tag](http://upic.me/i/ho/installextension.png)
+(http://upic.me/show/51366742)
 
 //
 
