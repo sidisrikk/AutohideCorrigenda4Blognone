@@ -8,8 +8,12 @@ $(window).load(function () {
         chrome.storage.sync.get(
             'autohidden', function (result) {
                 // Notify that we loaded.
-                console.log(result);
-                $('input:radio[name="autohidden"][value="' + result.autohidden + '"]').prop('checked', true);
+                //console.log(result);
+                if (result.autohidden == null) {
+                    $('input:radio[name="autohidden"][value="off"]').prop('checked', true);   
+                } else {
+                    $('input:radio[name="autohidden"][value="' + result.autohidden + '"]').prop('checked', true);
+                }
             });
 
 
