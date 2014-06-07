@@ -29,9 +29,9 @@ How it works? :
 Experimental report  
 
 1. Inspected page from https://www.blognone.com/node/56900 to https://www.blognone.com/node/57100
-2. I found 1583 non-corrigenda comment which contain ' > ' in 14 comments.
+2. I found 1583 non-corrigenda comments which contain ' > ' in 14 comments.
       (Mistake  1%)
-3. There're 74 corrigenda comment. And this algorithm miss 12 comments 
+3. There're 74 corrigenda comments. And this algorithm miss 12 comments 
       (Accuracy 80%)
 
 ----------------------------------------------------------------------------
