@@ -7,7 +7,12 @@ Autohide Corrigenda for Blognone
 Download Extension here :  http://goo.gl/ve2flS
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
+Installation 
 
+
+![alt tag](http://upic.me/ts/i/ho/installextension.png)
+
+//
 
 
 
