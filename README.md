@@ -10,14 +10,16 @@ Download Extension here :  http://goo.gl/ve2flS
 Installation : (http://upic.me/i/ho/installextension.png)
 ----------------------------------------------------------------------------
 
-How it works? :  All comments contain '>' are hid.
+How it works? :  All comments contain ' > ' are hid.
 ----------------------------------------------------------------------------
 
-Experimental report
+Experimental report  
 
-1. 90% of xxxxxx
-2. 45% of yyyyyy
-3. 40% of zzzzzz
+1. Inspected page from https://www.blognone.com/node/56900 to https://www.blognone.com/node/57100
+2. I found 1583 non-corrigenda comment which contain ' > ' in 14 comments.
+      Mistake  1%
+3. There're 74 corrigenda comment. but this algorithm miss 12 comments 
+      Accuracy 80%
 
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
