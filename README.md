@@ -10,7 +10,17 @@ Download Extension here :  http://goo.gl/ve2flS
 Installation : (http://upic.me/i/ho/installextension.png)
 
 
+How it works?
+-----
+All comments contain '>' are hid.
 
+-------------------------
+
+Experimental report
+----------------------------
+1. 90% asdasd
+2. 45% asdadas
+3. 40 of asdad i isdd
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
