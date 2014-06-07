@@ -13,7 +13,12 @@ Download Extension here :  http://goo.gl/ve2flS
 Installation : (http://upic.me/i/ho/installextension.png)
 ----------------------------------------------------------------------------
 
-How it works? :  All comments contain ' > ' are hid.
+How it works? :  
+
+1. All comments contain ' > ' are hid. 
+
+2. Paint Header colorful (now in greyscale)
+
 ----------------------------------------------------------------------------
 
 Experimental report  
